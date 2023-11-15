@@ -1,0 +1,14 @@
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\bin\Debug\net6.0\KP_MHAD.exe
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\bin\Debug\net6.0\KP_MHAD.deps.json
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\bin\Debug\net6.0\KP_MHAD.runtimeconfig.json
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\bin\Debug\net6.0\KP_MHAD.dll
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\bin\Debug\net6.0\KP_MHAD.pdb
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.AssemblyInfoInputs.cache
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.AssemblyInfo.cs
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.csproj.CoreCompileInputs.cache
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.dll
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\refint\KP_MHAD.dll
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.pdb
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\KP_MHAD.genruntimeconfig.cache
+C:\Users\TheForgem4ster\source\repos\KP_MHAD\KP_MHAD\obj\Debug\net6.0\ref\KP_MHAD.dll
